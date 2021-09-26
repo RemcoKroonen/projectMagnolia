@@ -1,0 +1,80 @@
+body,html {
+	height: 100%;
+}
+
+body {
+	background-image: url("images/magnolia2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: auto;
+}
+
+.name{
+	color: white;
+	font-size: 125%;
+}
+
+.foto {
+	width: 20%;
+	border-style: solid;
+	border-color: white;
+}
+
+.head{
+	color: white;
+	font-size: 150%;
+}
+
+.mij {
+	width: 15%;
+	color: white;
+	font-size: 125%;
+}
+
+.hobbies{
+	color: white;
+	font-size: 125%;
+	width: 15%;
+}
+
+.verstand{
+	color: white;
+	font-size: 125%;
+	width: 15%;
+}
+
+.niet{
+	color: white;
+	font-size: 125%;
+	width: 15%;
+}
+
+.student{
+	color: white;
+	font-size: 125%;
+	width: 15%;
+}
+
+.point{
+	color: blue;
+	font-size: 125%;
+	width: 15%;
+}
+
+.vragen{
+	color: blue;
+	font-size: 125%;
+	width: 15%;
+}
+
+.inhoud{
+	color: white;
+	font-size: 125%;
+	width: 15%;
+}
+
+.instructie{
+	color: blue;
+	font-size: 125%;
+	width: 15%;
+}
